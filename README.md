@@ -58,10 +58,16 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
     1.Go to EC2 Instances.
     2.Select your instance → Instance State → Terminate.
 # Snapshots
+
 # Snap Shot 1: Simple Storage Service (S3)
+
 <img width="1300" height="726" alt="445905433-7855d7ad-f9ea-49b8-91a6-ad495b0a7633" src="https://github.com/user-attachments/assets/15cebf07-d53b-47b9-acb8-b9c075f0b6ec" />
+
 # Snap Shot 2: EC2 (Elastic Compute Cloud) – Instance
+
 <img width="1294" height="725" alt="445905509-52d44c89-5dd5-4d1a-a2fe-41c04b0bce52" src="https://github.com/user-attachments/assets/054fa09f-3858-47be-9b4f-933b7f80da27" />
+
 # Result
+
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) instance has been successfully created and launched in AWS.
 
